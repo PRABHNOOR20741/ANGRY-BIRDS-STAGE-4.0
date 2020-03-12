@@ -1,2 +1,2 @@
-# ANGRY-BIRDS-STAGE-4.0
-We created the slingshot 
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
